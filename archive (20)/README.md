@@ -70,22 +70,6 @@ Top predictors of price:
 
 ---
 
-## 🚀 How to Run  
-1. Clone this repo:  
-   ```bash
-   git clone https://github.com/yourusername/airbnb-nyc-analysis.git
-   cd airbnb-nyc-analysis
-   ```  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```  
-3. Open Jupyter Notebook:  
-   ```bash
-   jupyter notebook airbnb_nyc_analysis.ipynb
-   ```  
-
----
 
 ## 🏆 Conclusion  
 - Airbnb NYC data shows strong concentration in Manhattan & Brooklyn.  
@@ -94,5 +78,3 @@ Top predictors of price:
 - This project is both an **EDA case study** and a **baseline predictive modeling project**.  
 
 ---
-
-✨ Feel free to fork, improve, and extend this analysis with advanced ML models or interactive dashboards!  
